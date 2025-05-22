@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p156416-e1658127.adobeaemcloud.com/bin/franklin.delivery/shellnick/newAEM/main"
+    url: https://author-p156416-e1658127.adobeaemcloud.com/bin/franklin.delivery/shellnick/newaem/main"
     type: "markup"
     suffix: ".html"
